@@ -1,0 +1,20 @@
+#+TITLE: Org.kak
+
+* Summary
+	
+	Org.kak allows you to view Org and modify Org-mod documents in kakoune.
+	It has features such as:
+	 - Basic syntax highlighting.
+	 - Auto toggle of checkboxes and TODO (using ~<ret>~ ). Note this also has support for checked-count, both in the form of ~[n/m]~ and ~[n%]~
+	 - Inline code.
+	It does /not/ support:
+	 - Org adgenda view.
+	 - Any expressions or writing code on exit.
+
+* Screenshots
+	#+CAPTION: Basic Syntax Highlighting
+	[[./screenshots/SyntaxHighlighting.png]]
+	
+	#+CAPTION: Toggling TODO elements
+	[[./screenshots/Todo.gif]]
+
